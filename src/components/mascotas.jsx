@@ -22,5 +22,4 @@ function Mascotas() {
     );
 }
 
-
 export default Mascotas;
